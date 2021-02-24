@@ -1,0 +1,3 @@
+/home/leonardo/Documents/Doutorado/Image-Registration/RotationRegistration/debug/CMakeFiles/edit_cache.dir
+/home/leonardo/Documents/Doutorado/Image-Registration/RotationRegistration/debug/CMakeFiles/rebuild_cache.dir
+/home/leonardo/Documents/Doutorado/Image-Registration/RotationRegistration/debug/CMakeFiles/MIRotation.dir

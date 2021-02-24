@@ -1,0 +1,754 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "debug/CMakeFiles/3.19.0/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/leonardo/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "debug/CMakeFiles/3.19.0/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "debug/CMakeFiles/3.19.0/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/leonardo/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/leonardo/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/leonardo/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/leonardo/Qt/Tools/CMake/share/cmake-3.19/Modules/Platform/Linux.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/leonardo/Qt/Tools/CMake/share/cmake-3.19/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/leonardo/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/leonardo/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/leonardo/Qt/Tools/CMake/share/cmake-3.19/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/leonardo/Qt/Tools/CMake/share/cmake-3.19/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/leonardo/Qt/Tools/CMake/share/cmake-3.19/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/leonardo/Qt/Tools/CMake/share/cmake-3.19/Modules/Internal/CMakeCheckCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/leonardo/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/leonardo/Qt/Tools/CMake/share/cmake-3.19/Modules/Platform/Linux-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/leonardo/Qt/Tools/CMake/share/cmake-3.19/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/leonardo/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/leonardo/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/leonardo/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/leonardo/Qt/Tools/CMake/share/cmake-3.19/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/leonardo/Qt/Tools/CMake/share/cmake-3.19/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/leonardo/Qt/Tools/CMake/share/cmake-3.19/Modules/Platform/Linux-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/leonardo/Qt/Tools/CMake/share/cmake-3.19/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/leonardo/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/ITKConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/ITKConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/ITKTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/CMake/ITKModuleAPI.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKDoubleConversion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKEigen3.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/ITKInternalEigen3-build/ITKInternalEigen3ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/ITKInternalEigen3-build/ITKInternalEigen3Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/ITKInternalEigen3-build/ITKInternalEigen3Targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKKWIML.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKKWSys.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKVNL.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKVNLInstantiation.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKCommon.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKFiniteDifference.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKImageFilterBase.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKCurvatureFlow.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKImageAdaptors.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKNetlib.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKStatistics.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKTransform.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKImageFunction.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKImageGrid.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKAnisotropicSmoothing.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKImageCompose.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKMesh.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKZLIB.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKMetaIO.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKSpatialObjects.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKImageStatistics.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKPath.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKImageIntensity.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKImageLabel.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKLabelMap.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKThresholding.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKConnectedComponents.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKMathematicalMorphology.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKBinaryMathematicalMorphology.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKNarrowBand.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKDistanceMap.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKQuadEdgeMesh.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKFastMarching.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOImageBase.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKImageCompare.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKSmoothing.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKImageGradient.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKImageSources.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKImageFeature.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKOptimizers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKSignedDistanceFunction.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKLevelSets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKAntiAlias.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKPolynomials.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKBiasCorrection.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKClassifiers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKColormap.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKFFT.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKConvolution.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKDICOMParser.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKDeconvolution.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKDeformableMesh.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKDenoising.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKDiffusionTensorImage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKDisplacementField.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKEigen.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKExpat.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKGDCM.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKNIFTI.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKGIFTI.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKGPUCommon.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKGPUFiniteDifference.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKGPUAnisotropicSmoothing.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKGPUImageFilterBase.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKGPURegistrationCommon.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKRegistrationCommon.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKPDEDeformableRegistration.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKGPUPDEDeformableRegistration.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKGPUSmoothing.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKGPUThresholding.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKGoogleTest.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKHDF5.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOBMP.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOBioRad.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOBruker.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOCSV.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOGDCM.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOIPL.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOGE.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOGIPL.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOHDF5.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKJPEG.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOJPEG.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKOpenJPEG.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOJPEG2000.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKTIFF.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOTIFF.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOLSM.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKMINC.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOMINC.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOMRC.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKVoronoi.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOMeshBase.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOMeshBYU.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOMeshFreeSurfer.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOMeshGifti.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOMeshOBJ.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOMeshOFF.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOMeshVTK.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOMesh.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOMeta.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIONIFTI.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKNrrdIO.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIONRRD.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKPNG.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOPNG.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIORAW.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOSiemens.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOXML.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOSpatialObjects.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOStimulate.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKTransformFactory.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOTransformBase.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOTransformHDF5.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOTransformInsightLegacy.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOTransformMatlab.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIOVTK.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKImageFrequency.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKImageFusion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKImageNoise.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKIntegratedTest.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKKLMRegionGrowing.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKLIBLBFGS.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKLabelVoting.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKLevelSetsv4.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKMarkovRandomFieldsClassifiers.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKOptimizersv4.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKMetricsv4.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKQuadEdgeMeshFiltering.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKRegionGrowing.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKRegistrationMethodsv4.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKSpatialFunction.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKSuperPixel.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKTestKernel.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKVTK.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKVideoCore.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKVideoFiltering.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKVideoIO.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/cmake/ITK-5.1/Modules/ITKWatersheds.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/CMake/UseITK.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/CMake/itkImageIOFactoryRegisterManager.h.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/CMake/itkMeshIOFactoryRegisterManager.h.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/CMake/itkTransformIOFactoryRegisterManager.h.in"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/home/leonardo/Documents/Doutorado/Image-Registration/RotationRegistration/debug",
+		"source" : "/home/leonardo/Documents/Doutorado/Image-Registration/RotationRegistration"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

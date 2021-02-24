@@ -1,0 +1,1731 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "MIRotation"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_link_libraries",
+			"set_property",
+			"include",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/CMake/UseITK.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 9,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 10,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"parent" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 231,
+				"parent" : 4
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 232,
+				"parent" : 4
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 27,
+				"parent" : 4
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 2,
+					"define" : "DEBUG"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "ITK_IO_FACTORY_REGISTER_MANAGER"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "_FILE_OFFSET_BITS=64"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "_GNU_SOURCE"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "_LARGEFILE64_SOURCE"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "_LARGEFILE_SOURCE"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 6,
+					"path" : "/home/leonardo/Documents/Doutorado/Image-Registration/RotationRegistration/debug/ITKFactoryRegistration"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Segmentation/Watersheds/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Video/IO/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Video/Filtering/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Video/Core/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Bridge/VTK/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Core/TestKernel/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Segmentation/SuperPixel/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/SpatialFunction/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Registration/RegistrationMethodsv4/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Segmentation/RegionGrowing/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/QuadEdgeMeshFiltering/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Registration/Metricsv4/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Numerics/Optimizersv4/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Segmentation/MarkovRandomFieldsClassifiers/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Segmentation/LevelSetsv4/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Segmentation/LabelVoting/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/libLBFGS/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Segmentation/KLMRegionGrowing/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/ImageNoise/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/ImageFusion/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/ImageFrequency/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/VTK/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/TransformMatlab/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/TransformInsightLegacy/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/TransformHDF5/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/TransformBase/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/TransformFactory/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/Stimulate/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/SpatialObjects/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/XML/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/Siemens/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/RAW/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/PNG/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/PNG/src"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/Modules/ThirdParty/PNG/src"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/NRRD/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/NrrdIO/src/NrrdIO"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/Modules/ThirdParty/NrrdIO/src/NrrdIO"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/NIFTI/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/Meta/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/Mesh/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/MeshVTK/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/MeshOFF/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/MeshOBJ/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/MeshGifti/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/MeshFreeSurfer/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/MeshBYU/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/MeshBase/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Segmentation/Voronoi/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/MRC/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/MINC/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/Modules/ThirdParty/HDF5/src/itkhdf5"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/HDF5/src/itkhdf5"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/MINC/src/libminc/volume_io/Include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/MINC/src/libminc/libsrc2"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/MINC/src/libminc/libcommon"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/MINC/src/libminc"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/MINC"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/Modules/ThirdParty/MINC"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/LSM/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/TIFF/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/TIFF/src"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/Modules/ThirdParty/TIFF/src/itktiff"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/Modules/ThirdParty/TIFF/src"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/JPEG2000/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/OpenJPEG/src/openjpeg"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/Modules/ThirdParty/OpenJPEG/src/openjpeg"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/JPEG/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/JPEG/src"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/Modules/ThirdParty/JPEG/src"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/HDF5/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/GIPL/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/GE/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/IPL/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/GDCM/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/CSV/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/Bruker/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/BioRad/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/BMP/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/Modules/ThirdParty/HDF5/src"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/HDF5/src"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/GPUThresholding/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/GPUSmoothing/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Registration/GPUPDEDeformable/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Registration/PDEDeformable/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Registration/Common/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Registration/GPUCommon/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/GPUImageFilterBase/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/GPUAnisotropicSmoothing/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Core/GPUFiniteDifference/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Core/GPUCommon/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/GIFTI/src/gifticlib"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/GDCM/src/gdcm/Source/DataStructureAndEncodingDefinition"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/GDCM/src/gdcm/Source/MessageExchangeDefinition"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/GDCM/src/gdcm/Source/InformationObjectDefinition"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/GDCM/src/gdcm/Source/Common"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/GDCM/src/gdcm/Source/DataDictionary"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/GDCM/src/gdcm/Source/MediaStorageAndFileFormat"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/Modules/ThirdParty/GDCM/src/gdcm/Source/Common"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/Modules/ThirdParty/GDCM"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/Expat/src/expat"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/Modules/ThirdParty/Expat/src/expat"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Numerics/Eigen/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/DisplacementField/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/DiffusionTensorImage/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/Denoising/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Segmentation/DeformableMesh/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/Deconvolution/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/DICOMParser/src/DICOMParser"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/Modules/ThirdParty/DICOMParser/src/DICOMParser"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/Convolution/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/FFT/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/Colormap/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Segmentation/Classifiers/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/BiasCorrection/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Numerics/Polynomials/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/AntiAlias/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Segmentation/LevelSets/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Segmentation/SignedDistanceFunction/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Numerics/Optimizers/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/ImageFeature/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/ImageSources/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/ImageGradient/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/Smoothing/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/ImageCompare/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/IO/ImageBase/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/Modules/IO/ImageBase"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/FastMarching/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Core/QuadEdgeMesh/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/DistanceMap/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Numerics/NarrowBand/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/BinaryMathematicalMorphology/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/MathematicalMorphology/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Segmentation/ConnectedComponents/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/Thresholding/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/LabelMap/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/ImageLabel/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/ImageIntensity/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/Path/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/ImageStatistics/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Core/SpatialObjects/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/MetaIO/src/MetaIO/src"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/Modules/ThirdParty/MetaIO/src/MetaIO/src"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/ZLIB/src"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/Modules/ThirdParty/ZLIB/src"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Core/Mesh/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/ImageCompose/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/AnisotropicSmoothing/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/ImageGrid/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Core/ImageFunction/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Core/Transform/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Numerics/Statistics/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/Modules/ThirdParty/Netlib"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Core/ImageAdaptors/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/CurvatureFlow/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Filtering/ImageFilterBase/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Core/FiniteDifference/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/Core/Common/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/Modules/Core/Common"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/Modules/ThirdParty/VNL/src/vxl/core"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/Modules/ThirdParty/VNL/src/vxl/vcl"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/Modules/ThirdParty/VNL/src/vxl/v3p/netlib"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/VNL/src/vxl/core"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/KWIML/src"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/Modules/ThirdParty/KWIML/src"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/Modules/ThirdParty/Eigen3/src"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/Modules/ThirdParty/DoubleConversion/src/double-conversion"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/DoubleConversion/src"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/HDF5/src/itkhdf5/src"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/NIFTI/src/nifti/znzlib"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/NIFTI/src/nifti/niftilib"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/VNL/src/vxl/vcl"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/VNL/src/vxl/v3p/netlib"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/Modules/ThirdParty/KWSys/src"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/Eigen3/src/itkeigen/.."
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/VNL/src/vxl/core/vnl/algo"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/VNL/src/vxl/core/vnl"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/Modules/ThirdParty/NIFTI/src/nifti/znzlib"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/Modules/ThirdParty/NIFTI/src/nifti/niftilib"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/Modules/ThirdParty/HDF5/src/itkhdf5/c++/src"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/Modules/ThirdParty/HDF5/src/itkhdf5/c++/src"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/Modules/ThirdParty/HDF5/src/itkhdf5/src"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"id" : "MIRotation::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-rdynamic",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkdouble-conversion-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitksys-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkvnl_algo-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkvnl-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkv3p_netlib-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkvcl-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKCommon-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkNetlibSlatec-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKStatistics-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKTransform-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKMesh-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkzlib-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKMetaIO-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKSpatialObjects-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKPath-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKLabelMap-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKQuadEdgeMesh-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKFastMarching-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOImageBase-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKSmoothing-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKImageFeature-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKOptimizers-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKPolynomials-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKBiasCorrection-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKColormap-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKFFT-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKConvolution-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKDICOMParser-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKDeformableMesh-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKDenoising-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKDiffusionTensorImage-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKEXPAT-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkgdcmDICT-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkgdcmMSFF-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKznz-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKniftiio-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKgiftiio-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKPDEDeformableRegistration-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkhdf5_cpp.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkhdf5.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOBMP-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOBioRad-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOBruker-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOCSV-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOGDCM-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOIPL-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOGE-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOGIPL-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOHDF5-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkjpeg-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOJPEG-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkopenjpeg-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOJPEG2000-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitktiff-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOTIFF-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOLSM-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkminc2-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOMINC-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOMRC-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOMeshBase-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOMeshBYU-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOMeshFreeSurfer-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOMeshGifti-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOMeshOBJ-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOMeshOFF-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOMeshVTK-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOMeta-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIONIFTI-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKNrrdIO-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIONRRD-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkpng-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOPNG-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOSiemens-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOXML-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOSpatialObjects-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOStimulate-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKTransformFactory-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOTransformBase-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOTransformHDF5-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOTransformInsightLegacy-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOTransformMatlab-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOVTK-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKKLMRegionGrowing-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitklbfgs-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKMarkovRandomFieldsClassifiers-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKOptimizersv4-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKQuadEdgeMeshFiltering-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKRegionGrowing-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKRegistrationMethodsv4-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKTestKernel-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKVTK-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKVideoCore-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKVideoIO-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKWatersheds-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKFFT-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkopenjpeg-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkminc2-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lrt",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOIPL-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOXML-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkhdf5_cpp.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkhdf5.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOTransformBase-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKTransformFactory-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKImageFeature-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKOptimizersv4-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKOptimizers-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitklbfgs-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOBMP-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOGDCM-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkgdcmMSFF-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkgdcmDICT-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkgdcmIOD-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkgdcmDSED-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkgdcmCommon-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkgdcmjpeg8-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkgdcmjpeg12-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkgdcmjpeg16-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkgdcmopenjp2-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkgdcmcharls-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkgdcmuuid-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOGIPL-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOJPEG-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOTIFF-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitktiff-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkjpeg-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOMeshBYU-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOMeshFreeSurfer-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOMeshGifti-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKgiftiio-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKEXPAT-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOMeshOBJ-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOMeshOFF-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOMeshVTK-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOMeshBase-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKQuadEdgeMesh-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOMeta-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKMetaIO-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIONIFTI-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKniftiio-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKznz-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIONRRD-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKNrrdIO-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOPNG-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkpng-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkzlib-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOVTK-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKIOImageBase-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKVideoCore-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKStatistics-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkNetlibSlatec-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKSpatialObjects-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKMesh-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKTransform-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKPath-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKCommon-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkdouble-conversion-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitksys-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-ldl",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKVNLInstantiation-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkvnl_algo-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkvnl-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkv3p_netlib-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libitkvcl-5.1.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lm",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lpthread",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lm",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "/home/leonardo/Documents/GeneralSources/InsightToolkit-5.1.1/BUILD/lib/libITKSmoothing-5.1.a",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "MIRotation",
+	"nameOnDisk" : "MIRotation",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "MIRotation.cxx",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}
